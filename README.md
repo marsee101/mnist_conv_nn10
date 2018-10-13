@@ -2,7 +2,7 @@
 Source code of the period of Chapter 4 of the November 2018 issue of "Toragi"
 
 トランジスタ技術2018年11月号の第4章「手書き数字認識用FPGAニューラル・ネットワーク・システムの製作」のVivado HLSのソースコードです。
-http://toragi.cqpub.co.jp/tabid/852/Default.aspx
+http://toragi.cqpub.co.jp/tabid/852/Default.aspx<br>
 http://toragi.cqpub.co.jp/Portals/0/backnumber/2018/11/p074.pdf
 
 2つのVivado HLSプロジェクト用ソースコードが入っています。<br>
