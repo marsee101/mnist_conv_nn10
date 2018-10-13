@@ -31,3 +31,6 @@ mnist_conv_nn10_sDMAプロジェクト<br>
  
 Vivado HLSの使い方については、「FPGAの部屋」のブログをご覧ください。<br>
 http://marsee101.web.fc2.com/vivado_hls.html
+
+なお、日昇テクノロジーのMT9D111メガピクセルカメラモジュール&nbsp;http://www.csun.co.jp/SHOP/2010020301.html &nbsp;は在庫切れですが、ディスコンぽいです。
+FPGAの部屋のブログの「2 Mega pixel Camera Module MT9D111 JPEG Out + HQ lens」&nbsp; http://marsee101.blog19.fc2.com/blog-entry-2587.html &nbsp;の 2 Mega pixel Camera Module MT9D111 JPEG Out + HQ lens &nbsp;https://www.ebay.com/itm/2-Mega-pixel-Camera-Module-MT9D111-JPEG-Out-HQ-lens-/280572739197?ssPageName=ADME:L:OC:US:3160 &nbsp;はまだ在庫があるようです。
