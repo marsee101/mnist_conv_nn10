@@ -3,7 +3,7 @@ Source code of the period of Chapter 4 of the November 2018 issue of "Toragi"
 
 トランジスタ技術2018年11月号の第4章「手書き数字認識用FPGAニューラル・ネットワーク・システムの製作」のVivado HLSのソースコードです。
 2つのVivado HLSプロジェクト用ソースコードが入っています。
-mnist_conv_nn10フォルダ
+mnist_conv_nn10フォルダ<br>
  mnist_conv_nn10.cpp　（sourceフォルダ）
  af1_bias.h　（sourceフォルダ）
  af1_weight.h　（sourceフォルダ）
